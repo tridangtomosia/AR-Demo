@@ -1,0 +1,20 @@
+{
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "resources" : [
+    {
+      "filename" : "LoThuoc.arobject"
+    },
+    {
+      "filename" : "Macbook.arobject"
+    },
+    {
+      "filename" : "Muoi.arobject"
+    },
+    {
+      "filename" : "XitToc.arobject"
+    }
+  ]
+}
